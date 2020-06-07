@@ -1,3 +1,5 @@
+# Biologically Inspired Learning for Humanoid Robots
+
 This is a collection of implementations from the biologically-inspired learning for humanoid robotics course at TUM.  Various models derived from biology were implemented to test the advantages and disadvantages when using to control a NAO robot.  All implementations were conducted in python 2.7 using ROS Kinetic installed on Ubuntu 16.04 and using the Webots simulator.  See below for detailed instructions for setup.
 
 Setup:
