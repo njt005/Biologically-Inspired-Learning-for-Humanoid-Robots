@@ -1,6 +1,6 @@
 #!/usr/bin/env python
-# Tutorial 4 / May 20, 2020
-# Franzi Hacket, Patrick Hinz, Nick Tacca
+# June 20, 2020
+# Nick Tacca
 
 from __future__ import division
 import rospy

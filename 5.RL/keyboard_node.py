@@ -1,6 +1,6 @@
 #!/usr/bin/env python
-# Tutorial 5 / June 21, 2020
-# Franzi Hacket, Patrick Hinz, Nick Tacca
+# June 21, 2020
+# Nick Tacca
 
 import rospy
 from std_msgs.msg import String
